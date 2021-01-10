@@ -1,0 +1,21 @@
+table {
+  width: 100%;
+}
+
+.th-id {
+  width: 30%;
+}
+
+.th-name {
+  width: 70%;
+}
+
+.spinner-container {
+  height: 360px;
+  width: 390px;
+  position: fixed;
+}
+
+.spinner-container mat-spinner {
+  margin: 130px auto 0 auto;
+}
